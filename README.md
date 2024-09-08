@@ -14,7 +14,7 @@ Showcasing a collection of my work spanning both print and social media design, 
 
 ## Usage
 
-Use the [PSD](https://www.microsoft.com/fr-fr/microsoft-365/excel) files to get the source then you can edit them !
+Use the PSD files to get the source then you can edit them using Adobe Photoshop !
 
 
 ## Contact
