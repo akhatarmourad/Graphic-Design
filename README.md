@@ -8,7 +8,7 @@ Showcasing a collection of my work spanning both print and social media design, 
 ## Showcasing My Work
 ![Project Banner](./project-banner-1.png)
 ![Project Banner](./project-banner-2.png)
-![Project Banner](./project-banner-3png)
+![Project Banner](./project-banner-3.png)
 ![Project Banner](./project-banner-4.png)
 
 
